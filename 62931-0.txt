@@ -1,0 +1,1677 @@
+﻿The Project Gutenberg EBook of The Bubonic Plague, by A. Mitra
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Bubonic Plague
+
+Author: A. Mitra
+
+Release Date: August 15, 2020 [EBook #62931]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE BUBONIC PLAGUE ***
+
+
+
+
+Produced by deaurider, Stephen Hutcheson, and the Online
+Distributed Proofreading Team at https://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+
+
+
+                          THE BUBONIC PLAGUE.
+
+
+                                   BY
+                 A. MITRA, L.R.C.P., L.R.C.S., F.C.S.,
+                   _Chief Medical Officer, Kashmir._
+
+
+                               Calcutta:
+                        THACKER, SPINK AND CO.,
+                        5 & 6, Government Place.
+                                 1897.
+
+
+
+
+                               CONTENTS.
+
+
+                                                                    Page
+  What is it?                                                          1
+  Its History                                                          1
+  The London Epidemic of 1865                                          3
+  Geographical Distribution                                            8
+  Causes                                                               8
+  Bacillus                                                             9
+  Contagious as well as Infectious                                    11
+  Nature of an Epidemic                                               13
+  Incubation                                                          17
+  Symptoms                                                            17
+  Varieties                                                           21
+  Diagnosis                                                           21
+  Prognosis                                                           23
+  Microscopic and Macroscopic Appearances                             24
+  Prevention                                                          24
+  Sanitary Measures by Municipal Authorities                          26
+  Private Hygiene                                                     29
+  Inoculation against Plague                                          32
+  Treatment                                                           33
+  Treatment of Symptoms                                               38
+  Disinfection                                                        40
+  Purification of a Room after Plague Cases                           41
+
+
+
+
+                          THE BUBONIC PLAGUE.
+
+
+
+
+                             _WHAT IS IT?_
+
+
+Any contagious and fatal epidemic disease was originally called a plague
+(from _plaga_, a stroke), but this term is now applied to that
+particular kind of plague which is characterised by the appearance of
+high fever with inflammation of lymphatic glands or bubo, and is
+therefore called the Bubonic Plague. In Sanskrit Medical Books it has
+been described as _Vidradhi_ and _Visharpa_, and in Yonani as _Taoon_.
+The following definition given by Cantlie is comprehensive. “Plague or
+Malignant Polyadenites is an acute febrile disease of an intensely fatal
+nature characterised by inflammation of the lymphatic glands, marked
+cerebral and vascular disturbances, and by the presence of a specific
+bacillus.”
+
+
+
+
+                             _ITS HISTORY._
+
+
+It is an ancient disease mentioned in Hindoo and Christian Scriptures.
+Long before the Christian era it prevailed in Greece, attacking the town
+of Piræus, where it raged for two years. Egypt, Syria, Constantinople
+and Rome were visited by the plague. In Constantinople the outbreak was
+once so furious that during three months from 5,000 to 10,000 deaths
+occurred daily. The first historical allusion to plague was made by
+Rufus, a physician who lived in the reign of Trajan (A.D. 98-117), and
+who mentions of glandular swellings. In 1347, plague appeared in almost
+all countries in Europe, where Hecker believes, 25 millions of persons
+perished. Ireland was visited by plague three hundred years after its
+invasion by Patrolan, and it is said that 9,000 people died in a week
+and were buried at Tallagh near Dublin—a name which means the burial
+place of the plague-stricken. Plague visited England frequently, and no
+fewer than eighteen epidemics are said to have occurred before the great
+plague of 1665. In 1720, 40,000 out of a population of 90,000 died at
+Marseilles. In 1751, 150,000 died of plague in Constantinople. In 1799
+the French Army in Syria was devastated by plague. 6,000 persons died in
+Malta in 1813. In 1834-35, 14,888 persons died in Alexandria out of a
+population of 42,000. In 1876 there was an outbreak of the disease at
+Kumaon in Northern India, where it prevailed several times during the
+present century, and where it is known as the _Maha-Mari_. It is also
+said that it prevailed in 1815 on the Island of Kutch, and lasted till
+1821 in Kutch and Sindh. It also occurred between the years 1828 and
+1838 in Jhansi, Bareilly, Pali and Jodhpore. In China the plague has
+been present for a long time in an epidemic form. In 1894 60,000 persons
+died at Canton. From Canton it spread to Hongkong and to Amoy. In 1895,
+it visited many places in Southern China. In 1896, it was present at
+Hongkong. Some people think that the disease has come to Bombay probably
+from Singapore. There was an epidemic at Merv when the Bombay outbreak
+appeared, others, however, think that the epidemic at Merv was not that
+of plague and that the disease has come from Hongkong.
+
+
+
+
+                     _THE LONDON EPIDEMIC OF 1665._
+
+
+The following graphic and interesting account of the great London
+Epidemic of 1665 is taken from Sir William Guy’s book on “Public
+Health.”
+
+“I now turn for a more exact account of the plague of 1665 to the work
+of Dr. Nathaniel Hodges, a Fellow of the College of Physicians, resident
+in the City, and, as his book shows, in active practice among the
+victims of the disease.
+
+“Dr. Munk, in his roll of the Royal College of Physicians of London,
+says that he ‘acquired a great name among the citizens of London; that
+he remained at his post and continued in unremitting attendance on the
+sick,’ and that ‘during the latter part of his life he received a
+regular stipend from the City of London for the performance of his
+charitable office.’
+
+“Dr. Hodges tells us that about the close of 1664, two or three persons
+died suddenly with symptoms of the plague in one family at Westminster,
+that some timid neighbours of theirs took fright and removed into the
+City of London carrying the taint of pestilence with them whereby the
+disease, which existed only in a family or two, gained strength and
+spread abroad, and ‘for want of confining the persons first seized with
+it, the whole city was in a little time irrecoverably infected.’
+
+“In December a hard frost set in, which lasted three months, and during
+that time very few died of the plague. But the disease was not
+extinguished; for, in the middle of the Christmas holidays, the doctor
+was called to a young man in a fever, who after two days ‘had two
+risings about the bigness of a nutmeg,’ ‘one on each thigh,’ with a
+‘black hue’ and a ‘circle round them.’ By these and subsequent symptoms,
+he judged it to be a case of plague. It did not prove fatal.
+
+“When the frost broke, the disease gained ground and extended into
+several parishes; and the authorities issued an order ‘to shut up all
+the infected houses,’ so as to prevent ingress and egress. To give
+effect to this order, the houses of the infected were to be marked with
+a red cross, and to carry the inscription, ‘_Lord have mercy upon us_,’
+and a guard was set whose duty it was to hand food and medicine to the
+sick, and to prevent them from going abroad till forty days after their
+recovery. In spite of these harsh measures, ‘the plague more and more
+increased.’ Nor will this surprise us if we imagine the frantic and
+successful efforts that must have been made by the non-infected to
+escape, and the temptation to servants and nurses to appropriate and
+remove the property of the dying and dead. Indeed, Dr. Hodges accuses
+the nurses of strangling their patients, and secretly conveying the
+pestilential taint from sores of the infected to those who were well;
+and he justifies his accusation of ‘these abandoned miscreants,’ the
+Gamps and Prigs of the seventeenth century, by two instances; the one of
+a nurse who, ‘as she was leaving the house of a family, all dead, loaded
+with her robberies, fell down dead under her burden in the streets,’ the
+other of a ‘worthy citizen’ ‘who, being suspected dying by his nurse,
+was beforehand stripped by her; but recovering again, he came a second
+time into the world naked.’
+
+“In spite of the well intentioned measures of the authorities, the
+plague continued through May and June with more or less severity,
+sometimes in one place, sometimes in another, till the people becoming
+thoroughly frightened, flocked out of town in crowds. But the disease
+raged with redoubled fury among those that remained. Then the
+authorities bestirred themselves to the utmost. They instituted a
+monthly fast; and the King commanded the College of Physicians ‘to write
+somewhat in English,’ that might serve as ‘a general directory.’ The
+college not only obeyed the royal commands, by inventing a ‘_Plague
+Water_,’ consisting of a cordial distilled off from a vinous infusion of
+a score of very harmless roots, leaves, and flowers, but also appointed
+two of their number to co-operate with two chosen from among the
+aldermen in attending the infected; while Dr. Glisson, Regius Professor
+at Cambridge, and Drs. Paget, Wharton, Berwick and Brookes volunteered
+their help, with many others who survived, and eight or nine who fell
+victims to their self-devotion, among whom Dr. Conyers receives
+honourable mention.
+
+“Still, in the face of every precaution, the plague continued its work
+of destruction, especially among the common people, so as to be called
+the ‘_Poor’s Plague_,’ and, in August and September, completely got the
+mastery, ‘so that three, four or five thousand died in a week, and once
+8,000.’
+
+“And here I will follow Dr. Hodges’ example, and try to give you some
+idea of the state of things then prevailing. But in doing so I must
+shorten and tone down his description. ‘In some houses,’ he says
+‘carcases lay waiting for burial,’ ‘in others, persons in their last
+agonies.’ ‘In one room might be heard dying groans, in another the
+ravings of delirium,’ and, near at hand, relations and friends bewailing
+their loss and their own dismal prospects. ‘Death was the sure midwife
+to all children, and infants passed immediately from the womb to the
+grave.’ Some of the infected ran about staggering like drunken men, and
+fell down dead in the streets, or they lay there comatose and half dead;
+some lay vomiting as if they had drunk poison; others fell dead in the
+market in the act of buying provisions. The plague spared ‘no order, age
+or sex.’ The divine was taken in the very exercise of his priestly
+office, and the physician while administering his own antidote; and
+though the soldiers retreated, and encamped out of the city, the
+contagion followed, and vanquished them. Many in their old age, others
+in their prime, most women and still more children, perished; ‘and it
+was not uncommon to see an inheritance pass successively to three or
+four heirs in as many days.’ There were not sextons enough to bury the
+dead, the bells ceased tolling, the burying places were full, so that
+the dead were thrown into large pits, dug in waste ground, in heaps 30
+or 40 together; and those who attended the funerals of their friends one
+evening were often carried the next to their own long home.
+
+“This is written of a time when the worst had not yet happened. It was
+about the beginning of September that the disease was at its height.
+Then fires were ordered to be burnt in the streets for three days
+together; but before the time had expired, they were extinguished by
+heavy rains, which ushered in the most fatal night of all with its
+register of more than 4,000 deaths.
+
+“From this, its culminating point, the plague, ‘by leisurely degrees
+declined,’ ‘and before the number infected decreased, its malignity
+began to relax, insomuch that few died, and those chiefly such as were
+ill-managed.’ Dr. Hodges distinctly states that the pestilence did not
+stop for want of subjects, but from the nature of the distemper. ‘Its
+decrease was, like its beginning, moderate.’ Early in November, people
+grew more healthful, and though the funerals were still frequent, ‘yet
+many who had made most haste in retiring, made the most to return;’
+‘insomuch that in December, they crowded back as thick as they fled.’
+The houses were again inhabited; the shops re-opened; the people went
+cheerfully to their work; the rooms, in which a short time before
+infected persons had breathed their last, were peopled afresh, and many
+went into their beds ‘before they were even cold or cleansed from the
+stench of the diseased.’ ‘They had the courage now to marry again,’ ‘and
+even women, before deemed barren, were said to prove prolific, so that,
+although the contagion had carried off, as some computed, about 100,000,
+after a few months, their loss was hardly discernable.’ But the next
+spring there appeared ‘some remains of the contagion,’ which was easily
+conquered by the physicians; and the whole malignity ceasing, the city
+returned to perfect health, as after the great fire, ‘a new city
+suddenly arose out of the ashes of the old, much better able to stand
+the like flames another time.’”
+
+
+
+
+                      _GEOGRAPHICAL DISTRIBUTION._
+
+
+Plague is known in Europe, Asia and Africa, but it has not been known in
+the Western Hemisphere. It is said that Mesopotamia is the home of
+plague. It has been known as far North as Astrakhan in Asia and Norway
+in Europe. During the last fifty years, however, it is chiefly confined
+to Asia from Red Sea on one side, and the shores of the Pacific on the
+other. Some are inclined to think that the plague was carried from
+Himalyan India across Thibet to Yanon in Chinese territory, thence to
+Pekoi whence it made its way to Canton and Hongkong. If that be so, then
+the plague has accomplished a tour from Northern India _viâ_ China by
+Sea route to Southern India within a period of twenty years between 1876
+and 1896.
+
+
+
+
+                               _CAUSES_—
+
+
+A disease so fatal in its nature and against which human power is so
+futile was in ancient times naturally attributed to wrath of the gods.
+Supernatural, astrological, and, in some instances, rationalistic causes
+were assigned to it. In the fourteenth century the College of Physicians
+of Paris ascribed it to the influence of constellations in India. But
+more natural explanations, however, gradually followed. Putrefaction of
+dead animals was assigned as a cause in Egypt. Poisoning of water-supply
+was also believed to be the cause. Undue heat, rain, watery grain, and
+absence of the Etesian winds were thought to generate plague. Leaving
+ancient theories on the causation of the disease we find that modern
+Scientists divide themselves into two classes: _first_, those who
+believe in the germ theory and attribute the plague to a specific germ,
+holding that germs can never arise _de novo_; _second_, those who
+believe that atmospheric changes and certain telluric conditions or
+insanitary surroundings engender the seeds of pestilence which are
+carried through air, water or other media. The arguments in favour of
+the first theory are, however, so strong and overwhelming, that it is
+now almost universally accepted that plague is due to a specific poison
+which grows and multiplies under favourable conditions, and that
+wherever it occurs it is caused by the implantation of those germs in a
+suitable soil. If the soil is not fit, the germs may be sown, but they
+will not germinate and, if the soil is fit but the germs are absent, the
+disease will not be seen. The soil best suited for the plague seed is
+one where insanitary conditions prevail. Dirt and filth, bad
+ventilation, and overcrowding are its manure. The history of plague from
+ancient times fully illustrates that plague thrives in dirt, filth,
+squalor and misery. Diseased grain and want of subsoil drainage are held
+to be potent factors in the diffusion of plague.
+
+
+
+
+                              _BACILLUS_—
+
+
+During the Hongkong epidemic the great Japanese bacteriologist Kitasato,
+who formerly worked with Koch in Germany, discovered a bacillus in
+plague-stricken patients, and showed by experiments that these bacilli
+if injected into lower animals produced in them symptoms of plague.
+Yersin simultaneously discovered the same germs in connection with
+plague. According to our modern notion of the causation of the disease,
+these germs must be considered to be the specific poison which produces
+the symptoms of plague. The bacilli are found in the blood, in the
+buboes, and in all internal organs of the victim of the plague. They are
+short rods with rounded ends, with a clear space or band in the centre,
+readily stained by the aniline dyes and showing very little power of
+movement. The size of the plague bacillus varies, and bacilli of same
+character, but of less virulent nature, have been found in the soil of
+infected places. Some bacteriologists observed some development after
+death in the bacilli, this, if confirmed by observations at Bombay, will
+be highly interesting from a bacteriological point of view. If mice,
+rats, guinea-pigs and rabbits are inoculated with the plague bacillus,
+they soon become infected and die, and in their internal organs the same
+bacilli are found. They are also found in the soil and dust of houses
+where plague patients were kept, but not invariably so. Kitasato found
+the bacilli in the blood of patients convalescing from an attack of
+plague even three or four weeks after all symptoms have disappeared. It
+has been found that the bacillus dies after four days, during which it
+is kept at a dry heat, or at the temperature of 80°C. or 176°F. for half
+an hour, or at that of 100° C or 212°F. for a few minutes. Its resisting
+power to chemical disinfectants is feeble, dying in a 1 per cent.
+solution of carbolic acid or of lime water. It develops easily in many
+culture media at the ordinary temperature (from 18° to 22°C). An
+alkaline solution of Peptone 2 per cent., with from 1 to 2 per cent. of
+gelatine, is the best nutrient medium for its cultivation.
+
+
+
+
+                  _CONTAGIOUS AS WELL AS INFECTIOUS._
+
+
+Experience has proved that plague can be transmitted from one person to
+another by direct contact; when a case of plague occurs in a house,
+other inmates of the house are much liable to be attacked also. Visitors
+to the house, medical and other attendants are also liable to be seized
+or to carry with them fresh focus of infection. It was, however, found
+in the Hongkong epidemic of 1894 that none of the European medical men,
+some fifteen in number, nor any of the Chinese students who were on duty
+at the plague hospital died. During the Egyptian epidemic of 1835 a
+French doctor, Bulard, with the courage of his conviction that plague
+was not contagious wore the shirt of a patient who died from plague, and
+yet did not contract the disease. Such immunity, however, was probably
+due to some circumstances which might be easily explained. In the
+Hongkong epidemic of 1894 three Japanese medical men contracted the
+disease, and in 1896, some European nurses were attacked. In Bombay the
+sad deaths of Surgeon-Major Manser and Miss Joyce prove that contagion
+plays an important part in the spread of the disease.
+
+It has been maintained that plague is a miasmatic or soil-bred disease,
+and that the germs find in earth, water or in some form of fermenting or
+decomposing material a suitable nidus for growth. In this sense it is
+like malaria, which is endemic in a particular suitable area appearing
+and disappearing according as climatic or other conditions are
+favourable or unfavourable. The Chinese have a peculiar idea of the
+infection of plague. They consider that the plague rises from the soil
+and believe that it first attacks small animals with breathing organs
+near the soil, such as rats, then animals with breathing organs a little
+higher, such as poultry, pigs, dogs, goats, cows, so on till it reaches
+man, whose breathing organs are higher from the soil than those of other
+animals.
+
+The rats are undoubtedly attacked with plague before and during its
+prevalence among human beings, and they play an important part in the
+spread of its infection. In Kumaon this rat plague was observed by the
+people, and was recognized as a forerunner of the plague. The _Times of
+India_, September 30th, 1896, contains the following:—“It was known more
+than a month ago to all the people of Mandavi and to all the municipal
+sweepers in the district that the rats were dying in thousands all over
+the districts. They were found dead and dying almost everywhere, and in
+places where dead rats were never found before.” In Bombay an instance
+has been reported of a man trampling with bare foot on a rat which was
+seen slowly passing in a room and getting attacked by the plague soon
+after. Pigs, dogs, snakes, and jackals are said to be also affected by
+the plague. It will be seen that flesh-eating animals are the sufferers,
+due evidently to their eating plague flesh. Snakes swallow rats, and
+rats become infected by consumption of poisoned material or from
+infected soil or by their cannibal habit. Like other diseases due to a
+specific germ, the infection of plague may be caught from various
+sources such as the following—(_a_) By means of breath. Plague dust and
+dirt are very potent infective agents. A man getting a whiff of dust
+from the floor of a room in which there is a plague patient blown into
+his face may get the infection. Sweepers and others engaged in
+conservancy are, therefore, easily attacked. (_b_) By food or drink.
+Grain adultered with sand or earth infected by rats may be a source of
+infection. Food may also be infected by flies or diseased rats (_c_) By
+direct inoculation through any abrasion in the skin or mucous membrane.
+People with bare feet are, therefore, more liable to catch the
+infection. The infection may be spread by infected linen, bedding,
+furniture and fomites. The discharge from buboes contains the germs, and
+is, therefore, highly poisonous. The fæces, the urine, the sputum, the
+fur on the tongue are also infective. If the theory be true that the
+poison attaches itself to the soil, then persons living on ground-floor
+are more liable to the infection, and a floating population less so.
+Dust laden with germs is the principal agent in the diffusion of plague
+as that of any other germ disease. Professor Aoyama of Tokyo, whilst
+making a _post-mortem_ examination, scratched the left third finger and
+was attacked with the plague, also Dr. Ishigami, assistant to Kitasato.
+
+
+
+
+                        _NATURE OF AN EPIDEMIC._
+
+
+Plague is a very slow disease; it takes some weeks to travel from one
+quarter of a city to another. It took nine months to travel from the
+city of London to Soho, and ten from Hongkong to Macao—a distance of 30
+miles. Thousands of persons from Canton and Hongkong sought shelter at
+Macao, and there was free communication between these places, still
+Macao became affected nine months after plague ceased at Hongkong. When
+plague is first imported in a place, for three or four weeks isolated
+cases occur in one neighbourhood. An epidemic may last only a few weeks
+or months, but may extend over several years in sporadic form and a
+recrudescence takes place abruptly. In Mesopotamia plague declines and
+becomes dormant with the setting in of the hot weather, its activity
+reawakening in winter and gathering force with the advancing spring. The
+same was the case in Egypt. In Constantinople, on the contrary, as well
+as in England, the disease was dormant during the cold months but became
+active during the hotter. In England, September was the month of
+greatest prevalence. In the epidemic at Bengazi in 1858 as well as in
+Mukai in 1863 famine and plague were found together. That a water-logged
+soil favours famine was illustrated during the epidemic on the Lower
+Euphrates in 1867. In Persia and Arabia many epidemics were self-limited
+and spontaneously came to an end after spreading on a certain area,
+while, on the other hand, it has been known to obtain an endemic
+foot-hold, the virus remaining from year to year, and, occasionally
+under the influence of meteorological or unknown causes, becoming
+epidemic among the population.
+
+_Race._—No race seems to enjoy an immunity from the plague.
+
+_Geology and Climate._—Except the new hemisphere the plague has found
+congenial soil everywhere. It thrives as much in high and dry altitudes
+as in low-lying places, as much in overcrowded towns as in sparsely
+populated semi-desert regions. In temperate regions it has been known to
+rage in summer, but in Astrakhan it prevailed when there were several
+feet of snow on the ground. On the Volga it prevailed during the
+severest cold (1878-79), as well as in the extreme heat of Smyrna
+(1735). In Bombay it commenced at the end of an exceptionally dry
+season, as it did in South China. During the Hongkong epidemic the rains
+increased it. The increase of the epidemic at Hongkong with the rains
+was probably due to the fact that the rains drove people into infected
+houses, instead of sleeping outside, as they did in summer when the
+weather was good. It has been said that plague flourishes in a warm
+moist atmosphere and dry hot air kills it, but there are records of
+plague thriving in conditions antagonistic to this theory. A temperature
+between 60° and 85°F. is said to be very favourable to it.
+
+_Sex and Age._—Both sexes are equally liable. It is said that people
+between the ages of 10 to 30 are frequently attacked. But experience
+shows that children and old people are alike liable to attack. In Bombay
+the disease has occurred most frequently between the ages of 20 and 30,
+and the male sex has suffered more than the female.
+
+_Occupation._—During one epidemic, water-carriers, or those who used
+much water, or who dealt in oil and fats were found comparatively free;
+but this observation cannot be relied upon. Those whose business
+requires them to come much in contact with the sick, and also those who
+are engaged in cleaning are naturally more exposed to infection. It has
+been said that one attack generally protects from a second, which, if it
+occurs, usually runs a mild course.
+
+_Sanitation and Personal Hygiene._—Plague, germs thrive in filth. Bad
+hygienic conditions, over-crowding, insufficient ventilation, and
+absence of sunlight in dwelling houses, accumulation of decomposing
+organic matter, effluvia from bad drains, sewer and cesspools are causes
+that favour the growth and dissemination of an epidemic of plague. When
+it attacks a town, it, therefore, naturally selects first the poorer
+classes who live in ill-ventilated and over-crowded houses.
+Over-crowding within dwelling houses is a fertile source of producing a
+constitution fitted for the reception of plague-germs. Such portions of
+towns where there is much congestion and over-crowding suffer most.
+Scarcity of food favours plague. It has been called _Miseriæ Morbus_, or
+the disease of misery, and the plague of London was called the “poor’s
+plague.” In Kumaon there is the usual custom of keeping cattle in the
+lower room of a hut, where a crowd of cattle stand udder deep in fœtid
+straw. In one of the rooms of the upper storey grain is kept, and in
+another the whole family sleeps with doors and windows shut. Such
+conditions are undoubtedly very favourable to plague.
+
+_Predisposition._—Chill and exposure to cold, indigestion and any other
+disease producing a debilitated condition of body, fatigue, overwork,
+error of diet, mental emotion, and a terror of attack are predisposing
+causes. Catarrhs often predispose an attack.
+
+
+
+
+                             _INCUBATION._
+
+
+Or how long does it take for the poison to develop symptoms after
+infection: generally three to six days, but the period may be up to ten
+days. The period varies with the virulence of the poison. The germs,
+however, remain active outside a host for a long time. An instance has
+been reported, in which a man, after handling some ropes which 20 years
+previously had been used in the burial of plague corpses, took the
+disease and died of it.
+
+
+
+
+                              _SYMPTOMS._
+
+
+The usual premonitory symptoms are headache, loss of appetite, a feeling
+of general depression and aching of limbs. These symptoms may either be
+mild or may appear at once in very aggravated form; violent headache
+being usually of an acute dull character, accompanied by throbbing in
+the temples, giddiness, sleeplessness, palpitation, a feeling of
+oppression of the chest, even mental delusion may appear on the first
+day. The look of the patient is anxious, pale and cyanosed. The
+expression of the face resembles that of a man who has had no sleep for
+two or three nights but is being overpowered with the fatigue consequent
+to it. These symptoms are usually ushered in with a rise in the
+temperature. Well-marked rigor is usually not seen, but a slight shiver
+or chillness is complained of. Pulse is full, bounding and rapid—130 or
+more per minute. Respiration is difficult and accelerated even to 40 or
+50 per minute. Skin is dry and hot, face puffed, conjunctivæ congested.
+Sense of hearing is dull. Speech is thick and faltering. Tongue is dry
+and coated with greyish white or dark brown heavy fur. Violent thirst is
+present. Sometimes Patchiæ appear on the skin. In a few hours, or a few
+days after the appearance of the first symptoms, a swollen gland appears
+either in the neck or axilla or groin. The gland most commonly affected
+is one or some of the femoral chain. An inguinal, axillary or a cervical
+gland may also be affected. A number of glands may swell at one time or
+glands in all the above situations may be felt painful and swollen. The
+glands of the neck are most frequently attacked in children. Pains in
+the lower part of the abdomen and along the spine indicate affection of
+internal lymphatic glands. In some cases the first symptom noticed is a
+swollen and painful gland, but fever soon manifests itself. The
+glandular enlargement may antedate, coincide with, or follow the rise in
+temperature. Sometimes only pain in the gland is complained of, but no
+swelling is observed. The temperature rises gradually and goes up to
+104°, 105° or 106° F. In some cases a temperature of 108° was observed.
+There may be a marked morning fall and an evening exacerbation, which is
+a favourable sign, or the temperature may remain high persistently. All
+the above symptoms become soon aggravated when the second stage or stage
+of acute development of the disease appears. Brain symptoms show
+themselves. Lowson noticed four distinct type of brain symptoms—(1)
+comatose, when the patient lies paralysed, mind and body; (2) wildly
+delirious, when the patient struggles and fights and still retains a
+fair command of rational speech; (3) apathetic, when he lies perfectly
+quiet but is drowsy; (4) convulsive, which condition occurs when there
+is inflammation of the meninges or hæmorrhage in the brain.
+
+In this stage all symptoms of a pronounced typhoid condition supervene.
+Tongue becomes parched and black. Sordes cover the teeth. Gradually a
+somnolent condition and low muttering delirium supervene. In some cases
+the delirium is violent and furious, while in others it culminates in
+complete stupor and coma. Picking of the bed-clothes, and subsultus
+tendinum are common, and the urine and fæces are passed involuntarily.
+The pupils are dilated. The skin is bathed with profuse perspiration.
+The pulse is dichrotic and compressible, and gradually becomes
+anachrotic and intermittent till it finally fails. The area of cardiac
+dullness is increased and pain in the cardiac region is complained of.
+Heart begins to fail rapidly. The usual complications of this stage
+are—(1) meningites; (2) hæmorrhages; (3) severe gastric disturbance,
+such as vomiting, diarrhœa, hiccough. As a rule, constipation is found
+during the course of an attack, but diarrhœa, even severe, may appear.
+There may be pain in the abdomen. Bladder may be distended and a
+catheter may be necessary to evacuate it. Cystitics often develop. Œdema
+of the lungs, pleurisy and pneumonia may also complicate a case.
+Hæmaturia, hæmoptysis and hæmatemesis may be seen. Bronchitis and
+hypostatic inflammation may occur. The urine always shows presence of
+albumen. Death may take place from cardiac failure or from any of the
+above complications. Death may take place within three or four days,
+though in some virulent cases the patient dies within twenty-four hours.
+If the primary collapse is tided over, there is great chance of
+recovery, still deaths often occur of complications several days after
+the attack.
+
+In mild cases the second stage is not so severe, and temperature may
+fall by lysis or crisis—the latter being rare.
+
+The glands in the meantime become swollen and are surrounded by a
+sero-sanguinous exudation. The surrounding parts are œdematous. The
+glands usually do not suppurate, but they may do so and slough. The
+usual course after their enlargement is one of four: (1) resolution; (2)
+lengthened period of enlargement; (3) suppuration; (4) sloughing. In
+cases that recover the symptoms gradually take a favourable turn and
+recovery is as rapid as the attack. The fever slackens, the pulse
+becomes stronger, the tongue moist and the typhoid symptoms gradually
+pass away. The buboes either suppurate or subside; symptoms of secondary
+pyaemic conditions, however, may sometimes develop. Deviations from the
+typical course are, however, often observed. Some cases take an
+extremely rapid course, the patient succumbing within from 12 hours to
+two days. The duration of the disease varies between a few hours and a
+few weeks, but on an average up to the commencement of the convalescence
+it seems to last from 6 to 10 days. During convalescence the vitality of
+the issues are very low. Head symptoms sometimes persist for some time.
+Temper is irritable. The sloughing glands often take a long time to
+heal. Convalescence is soon established.
+
+
+
+
+                              _VARIETIES._
+
+
+Just as before an epidemic of cholera visits a place, it is usual to
+observe cases of mild diarrhœa, and indigestion prevailing amongst its
+population; so, before plague actually breaks out, it has been found
+that cases of buboes and parotites with fever are commonly observed.
+Such cases were called _Pestis Minor_ at Astrakhan. “No one died from
+the disease _per se_, but few people were confined to bed.” It is not
+known whether in _pestis minor_ the plague germs could be found; but
+presumably not.
+
+Drs. Simpson and Cobb of Calcutta have described what is called _Pestis
+Ambulans_, or an ambulatory form of plague, in which plague germs have
+been found. The commonly accepted types of plague are (1) Fulminant; (2)
+Typical; (3) _Pestis Minor_ (including _ambulans_). The cause of the
+first two is the bacillus discovered by Kitasato, and they are very
+fatal, of the third, the cause may be an allied bacterium less potent to
+produce toxic effects on man, and it may come and go but plague may not
+break out. In ambulatory form the patient has slight fever and glandular
+enlargement, but he can move about.
+
+
+
+
+                              _DIAGNOSIS_—
+
+
+It is difficult to differentiate a case of true plague in its early
+stages from a case of fever with benign glandular swellings or mumps.
+The premonitory symptoms of plague, and even the early symptoms of the
+first stage, may be due to many different diseases and therefore great
+caution is needed. It is needless to say how important it is that such
+diagnosis should be done with great care, specially when plague cases
+have to be isolated, for if a case of simple fever with benign
+lymphadenitis be brought in close contact with patients suffering from
+true plague, it is a serious matter with the former. A venereal bubo, or
+scrofulous enlargement of glands, or enlargement of femoral or inguinal
+gland due to traumatic or other causes which may be attended with fever
+should not be mistaken for a plague symptom. A medical man who has,
+however, carefully observed the facies of a few cases of true plague,
+and who carefully takes into consideration all other probable conditions
+which may be mistaken for plague, may not commit a mistake, but its
+probabilities are to be borne in mind. The practical lesson is, that all
+doubtful cases should be isolated and kept separate from cases of
+pronounced type. The plague bears some resemblance to typhus. Murchison
+says: “Plague is perhaps the typhus of warm climates, the two diseases
+being generated from similar causes and differing only in intensity from
+the effects of climate and other collateral circumstances.” In typhus
+there is a characteristic rush, and in plague there is bubo, but this
+order of things have been found in some instances to have changed, there
+being eruption in plague and bubo in typhus. The two diseases are,
+however, different and bacteriological and clinical evidence corroborate
+this view. Cantlie adds another disease, which he says he mistook for
+plague:—“On June 26th, 1894, when the plague was at its height, I saw a
+Parsee patient dwelling in a house in which plague existed, suffering
+from fever 104°(F.), dry tongue, headache, backache and large swollen
+glands in the left groin, which had suddenly appeared. Plague seemed the
+only diagnosis, and the man, much against his will, was sent to the
+plague hospital. In two days he came back again quite well, and on
+examining him I found his urine thick and milky. That night I found
+filaria in the man’s blood, and knew I had made a mistake in the first
+instance. Of course, the mistake is most likely to happen, but
+nevertheless it is not pleasant to think that we had subjected the man
+to the terrible danger of plague infection.”
+
+
+
+
+                              _PROGNOSIS._
+
+
+The mortality from plague may be about 90 per cent. or more when the
+epidemic is at its height. In the beginning, or towards the end of the
+epidemic, the mortality is less, as it is the case with all other
+epidemic diseases. The average mortality at Bombay has been 84 per cent.
+and in Karachi 89 per cent. It is, therefore, more fatal than all other
+epidemic diseases, the mortality from cholera during the height of an
+epidemic being about 60 per cent.
+
+In children and in the aged the disease is more fatal than in healthy
+adults. Cases in which the bubo appears early and is single, or in which
+there is a distinct morning remission, or less general prostration or
+free perspiration, or in which there is no diarrhœa, have greater chance
+of recovery. Rapid suppuration of the buboes indicates a favourable
+termination. Buboes do not suppurate as a rule until the primary fever
+has fallen. On the other hand, carbuncles, multiple buboes (specially on
+the neck), meningitis, hæmorrhages, pleurisy, pneumonia, diarrhœa,
+gastric irritation, cyanosis, jaundice and continued pyrexia are
+unfavourable signs.
+
+
+
+
+               _MICROSCOPIC AND MACROSCOPIC APPEARANCES._
+
+
+Bacilli are found in all the internal organs, notably in the spleen, in
+blood and in the enlarged glands.
+
+Body does not show much emaciation; decomposition commences early. Black
+hæmorrhagic patches are often found on the skin. The brain and membranes
+are congested. Sanguinous or serous effusions are found in serous
+cavities. Right side of the heart is dilated and is usually found full
+of coagulated or liquid blood. Cardiac muscles pale. The liver is
+enlarged and congested. The spleen is much enlarged, soft and congested.
+Hæmorrhagic patches have been found in the stomach. The mesenteric
+glands are enlarged. Kidneys congested. Bladder is sometimes found
+filled with bloody urine. The buboes are sometimes found to be soft and
+caseous. The tissues surrounding them are infiltrated with a reddish
+gelatinous exudation. The whole lymphatic chain from groin to the glands
+of the sacral or lumbar plexus, or from the axilla and neck to the
+glands of the mediastinum are affected. The internal glands are found
+more or less enlarged, injected and infiltrated with sanguineous fluid.
+The lymphatic follicles and Peyer’s patches in the intestines are found
+swollen. Hæmorrhages are found in the mesentery.
+
+
+
+
+                             _PREVENTION._—
+
+
+It is evident from what has been said that to prevent plague our efforts
+should be directed in two ways:—(1) To prevent the importation of germs;
+(2) to make the environment of a place such that the germs, even if
+imported, may not find suitable condition for their growth. To
+accomplish the first we need (_a_) inspection of people coming from
+infected places; (_b_) stopping importation of such articles as may
+carry infection with them; (_c_) quarantine, a word which owes its
+origin to the fact that, daring the epidemic of plague at Milan in 1527,
+patients when cured were despatched to lazarettos and detained there 40
+days.
+
+For the second, we require (_a_) sanitary precautions by guardians of
+public health; (_b_) observance of rules of personal hygiene by which
+good health can be maintained.
+
+(1). Wherever possible a medical inspection should be made to prevent
+importation of the disease. This is, however, a very difficult matter,
+and one unforeseen difficulty was experienced at Sukkur, where it was
+found that people booked to stations short of Sukkur, and rebooked at
+stations on the other side. Still this measure is highly important, and
+should be carried out most rigorously as long as there is any chance of
+importation of plague into an unaffected country. It is needless to feel
+the pulse of the patient; his gait, temperature, and look would afford a
+great deal of information. Information should be obtained from where the
+patient is travelling. An examination should also be made of clothes.
+Dirty clothes, soiled linen and rags should not be allowed to pass
+through an inspection post.
+
+(2). There should be a disinfecting or sterilizing room fitted with a
+steam sterilizer in all large railway stations, where all goods should
+be disinfected. Mail bags should also be subjected to this disinfection.
+Transmission of such goods as corpses, used clothes, rags, waste paper,
+fur, hide, feather, and fish should be entirely suspended.
+
+(3). If quarantine is imposed, it should be for a period not less than
+ten days. Every arrangement, however, should be made for suitable
+accommodation and sanitation in quarantine camps. In a quarantine camp
+new arrivals should not be mixed up with those who are already in
+quarantine.
+
+(4). Ships from infected ports should be carefully watched. If any
+infection is discovered, then isolation of the sick, disinfection of the
+ship and quarantine are required, but ships with clean bills of health,
+and if ten days have passed since its departure from the infected port,
+may be admitted after medical inspection. It must, however, be borne in
+mind that rats could easily carry infection from one port to another
+without any fear of detection. These facts show that medical inspection
+and quarantine may be useful, but they can never be perfect, and
+therefore the principal safeguard of a place lies in the improvement of
+its sanitation, and therefore greater attention and energy should be
+directed towards it.
+
+
+    _Sanitary Measures that should be taken by Municipal and Railway
+                             authorities._
+
+(1). All filth should be removed from the vicinity of towns and villages
+and _burnt_, and no filth of any kind should be allowed to remain within
+an inhabited area for any length of time.
+
+(2). All private and public latrines and public urinals should be
+cleaned and disinfected daily. All receptacles used for night-soil
+either in the latrine or for transport should be daily disinfected.
+
+(3). Latrine accommodation, according to the requirements of the
+population, should be provided.
+
+(4). Drains should be well washed and flushed with a disinfectant
+solution. In towns where there is an underground sewer, it should be
+well flushed and ventilated, and a disinfectant solution used for
+cleaning it. A house-to-house examination should be made to ascertain
+that all house-connections are properly and efficiently trapped.
+Deposits in the sewer should be taken out and suitably disposed off
+after disinfection.
+
+(5). Special attention for cleansing should be given to the following:—
+
+Cesspools, privies, cow-houses, stables, slaughterhouses, markets,
+workshops, common lodging houses, serais, bustees, and crowded quarters
+of a town.
+
+(6). All public roads should in the dry season be watered with a weak
+disinfectant solution.
+
+(7). Pure drinking water should be supplied. All articles of food should
+be inspected. Musty and decomposing grains should not be allowed to be
+sold. The meat market, dairies and bakeries should be under strict
+sanitary supervision.
+
+(8). Over-crowding in houses should be prevented. Steps should be taken
+for spreading out the population of much over-crowded and congested
+parts of towns.
+
+(9). Lime in a dry state and in solution should be abundantly used in
+drains, &c.
+
+(10). All railway carriages travelling through infected areas should be
+daily washed with a reliable disinfectant solution, such as 5 per cent.
+carbolic acid.
+
+(11). Railway platforms, waiting rooms and halls, and latrines should be
+frequently cleaned and disinfected.
+
+(12). There should be a system of house-to-house inspection to ascertain
+the sanitary condition of dwelling-houses, and also to find out, as far
+as possible, the condition of health of the inmates.
+
+Common lodging houses, serais and houses of a similar nature should be
+most carefully examined.
+
+(13). If plague breaks out, then isolation of cases is a great
+necessity. When practicable, such isolation may be done in the house of
+the patient. The patient should be kept in a separate room apart from
+those where other inmates of the house live. A temporary room could be
+put up on the roof of a house or in the compound, if there is any, or a
+tent may be pitched. Where possible, all healthy inmates of the house
+should at once remove themselves in camp leaving only such near
+relatives who must attend and nurse the patient. For patients living in
+lodging houses, or, where there is no means of such isolation as stated
+above, segregation in special isolation hospitals should at once be
+done. The isolation hospitals should be separate for each of the
+following classes—(_a_) for lower class people; (_b_) for middle class
+people; (_c_) for such people of the middle or upper class who may chose
+to pay for their expenses. It is needless to say that there should be
+special hospitals for women, where only female attendants and nurses
+should be employed. Hospitals should be provided with means for free
+ventilation, both for the sake of patients as well as attendants. No
+other disease requires more careful nursing than the plague, therefore
+ample nursing staff should be provided. The hospitals should have a
+separate observation ward and a separate convalescent ward, and by no
+means doubtful cases should be mixed up with confirmed cases.
+Disinfecting apparatus, sterilizers, good water supply and special
+laundry are other adjuncts essentially necessary for a plague hospital.
+Greatest care is required in the management of such a hospital, and only
+trained men should be employed.
+
+Suitable means for ambulance should be provided, and should be had ready
+within convenient distances. They should be thoroughly disinfected after
+the conveyance of any case. Ambulance carts or doolies should be
+comfortable, for physical exertion and exhaustion, attending a long
+journey in the early stage, greatly compromise chance of recovery.
+
+Burial within inhabited areas of a town or village should be stopped.
+Dead bodies should be removed under strict precautions for disinfection
+and disposed off quickly. Bodies should be buried deeply—4 to 6 feet.
+
+
+
+
+                           _PRIVATE HYGIENE._
+
+
+I. Houses and compounds, stables, kitchen and outhouses should be
+thoroughly cleaned, and they should be whitewashed with lime. Air-tight
+dustbins should be kept in the house.
+
+II. Rooms, specially bed-rooms, should be well ventilated, attention
+should be paid to the condition of the floor, which should not be damp,
+and care should be taken that rats may not infest the house and spaces
+under the floor. If dead rats are found in the house, they should be
+removed and burnt, and the place thoroughly disinfected.
+
+III. House drains should be cleaned and well flushed with a disinfectant
+solution.
+
+IV. Nowhere in the house or compound should any kind of organic refuse
+be allowed to accumulate. Better not use any organic manure in the
+kitchen garden or house garden during an epidemic.
+
+V. Articles of food should not be allowed to remain uncovered on the
+table or elsewhere, for there is chance of their infection by flies,
+mice, or rats.
+
+VI. Clothes received from the dhoby’s house should be again boiled in
+water, dried, and then used.
+
+VII. Bed-clothes and wearing apparel should be aired and exposed to the
+sun daily. As frequently as possible floors and passages should be well
+washed with a disinfectant solution and then well dried.
+
+VIII. There should not be any over-crowding in bed-rooms.
+
+IX. Drinking water should be boiled before use. Raw vegetables, such as
+salad, cucumber, &c., should only be used after thoroughly washing them,
+and then with vinegar.
+
+X. Personal cleanliness should be strictly observed. Daily bath,
+cleaning the teeth with carbolic tooth powder, and carefully washing
+hands and mouth before and after meals are essential.
+
+XI. Those who have to attend on plague cases should be very careful.
+Hands should be thoroughly washed with a disinfectant solution, and a
+nail brush used soon after the patient or anything in contact with him
+is touched. A bath to which some antiseptic is added should be taken
+immediately after coming in contact with plague patients. Workers in
+plague hospitals should be warned about scratches or wounds on their
+bodies. Use of respirators with an antiseptic sprinkled over the
+entrance valves is recommended. Only very healthy people should approach
+plague cases. On the appearance of slightest headache, languor, or fever
+an attendant should be relieved from duty.
+
+XII. As a prophylactic 5 grains of quinine sulphate may be taken twice
+daily, or a small bottle containing eucalyptus or some other volatile
+disinfectant, may be carried in the pocket, and a few drops may be
+occasionally poured on the handkerchief. Smoking good tobacco may have a
+prophylactic value.
+
+XIII. If plague occurs in the house, the following steps should be
+taken:—
+
+(_a_) The patient should at once be put in bed and kept in a temporary
+room, which may be put up on the roof of a house. No healthy inmate of
+the house should go in that room or have any connection with the sick,
+except those who have to nurse the patient.
+
+(_b_) All discharges, fæces, urine, sputum, vomited matter, &c., should
+be taken in vessels with disinfectant solution in it, and some quicklime
+should immediately be sprinkled over them. On no account should anything
+leave the room but to be disinfected.
+
+(_c_) Floor and bedsteads should be washed with a disinfectant solution,
+clothes and other articles that touch the patient should be carefully
+disinfected. Crockery and glass should be scalded. If great care and
+cleanliness are not observed with regard to the bed and body linen of
+the patient, the infection may be diffused through the air immediately
+around the patient.
+
+(_d_) A medical man should be at once sent for. Delay is fatal.
+
+
+
+
+                     _INOCULATION AGAINST PLAGUE._
+
+
+M. Haffkine, of cholera inoculation fame, has commenced to inoculate
+against the plague under the same principles on which his inoculation
+against cholera is based. By injecting into the body an attenuated virus
+of plague, a very mild attack is produced, which in people inoculated
+has proved harmless. This mild attack, it is thought, would protect the
+system from more potent forms of the poisonous germs. The inoculation
+for plague is still in its experimental stage, and cannot, for obvious
+reasons, be applied to a large population. Medical attendants, nurses
+and others who, by call of duty, have to constantly come in contact with
+plague patients may, however, take advantage of this means of
+protection, which, in the hands of M. Haffkine, may yield good results.
+Yersin also claims for his serum prophylactic value. In this and all
+other matters connected with bacteriology, such as germs,
+sero-therapeutics, &c., the medical profession now-a-days receives a
+good deal of satirical remarks from sceptical lay public. It is natural
+that it should be so, for the science of bacteriology is still in its
+infancy, and many of its practical applications are still in their
+experimental stage. But undoubtedly the science is advancing, and by its
+aid we are now better able to understand diseases and their nature. Many
+facts have been demonstrated and proved with precision. What is
+disbelieved to-day, may, however, be believed tomorrow, for, with all
+human attempt to reveal secrets of nature, such is the case. Readers of
+Smollet’s Roderick Random may remember how in the Surgeon’s Hall one of
+the examiners said:—“I affirm that all wounds of the intestine whether
+great or small are mortal.” Now, however, if a man dies of a wound of
+the intestine, the unfortunate doctor in whose hand such a casualty
+takes place runs great risk of being charged with malpraxès.
+
+
+
+
+                              _TREATMENT._
+
+
+I. _Hygienic._—The patient should take to bed immediately on the
+appearance of the first symptoms. The room should have means for free
+ventilation, and the temperature in it should be between 60° to 70° F.
+The air of the room may be cooled by a block of ice. The room should be
+kept clean, and there must not be in it any curtain, carpet or hangings.
+The floor and bedsteads should be daily washed with a disinfectant
+solution. A position of absolute rest in bed is to be maintained
+throughout the illness.
+
+Bedpan and urinal should be always used. Bedclothes should be light and
+warm. Wearing apparel if saturated with perspiration should be changed.
+It is best to have two beds side by side so as to be able to move the
+patient easily from one to another for cleansing purposes. Mattresses
+should be suitably protected from penetration by the discharges. The air
+of the sickroom can be made antiseptic by placing pieces of blotting
+paper saturated with eucalyptus oil or phenol on plates about the
+apartment or by pouring carbolic acid on hot water in a plate. The
+doorways should be curtained by a sheet wet with disinfectant solution.
+Great cleanliness of the body of the patient should be enforced by cold
+sponging with an antiseptic solution. Skilful nursing is essentially
+necessary. The motions should be disinfected by strong antiseptics such
+as quicklime, carbolic acid, &c., as soon as they are passed.
+
+II. _Dietetic._—From the commencement of the disease the diet should be
+liquid and nourishing. Milk is best. The quantity for adults should not
+be less than three or four pints in the twenty-four hours. It must be
+given in small quantities at short intervals. Soda, potash or plain
+carbonated water may be mixed with it. Barley water and thin sago water
+may also be given. If the patient’s vital powers are low, the milk may
+be peptonised by using Fairchild’s powders or by adding a little of
+Benger’s Liquor Pancreatices. In cases when milk cannot be taken in
+sufficient amount, animal food may be given in the form of plain meat
+broth. Egg-flip with or without brandy may also be given. It is useless
+to give strong meat essences when the digestive powers are seriously
+impaired, and excess of zeal in this direction does a great deal of
+harm. These accumulate in the intestinal canal and form a fermenting
+mixture in which poisonous ptomaines form. Throughout the attack the
+patient’s strength should be husbanded as carefully as possible. When
+there is thirst, water, or iced water, or iced beer or stout, or
+ice-cream, or fruit _sherbat_ should be given. During convalescence
+great care should be taken of diet, for then the vital powers are at a
+very low ebb.
+
+III. _External._—In order to lower the temperature rubbing of the skin
+with oil from the commencement of the disease has been recommended, but
+this procedure is, I think, of no use. I suggest, however, that when
+temperature is high 15 drops of Creosote may be rubbed near the axilla.
+During height of fever, the body may be lightly sponged all over, twice
+or thrice a day, with the following solution:—
+
+  Thymol                          40 grains.
+  Spirit Lavendula                2 oz.
+  Spirit Vin. rectif.             3 ”
+  Acid Acetic dil.                3 ”
+  Aquæ Rose                  add  16 ”
+
+Mustard plasters to limbs and over the heart should be given when there
+are signs of failing heart and circulation, and over the epigastrium
+when there is vomiting or hiccough. Smelling salts and strong ammonia
+should be applied to the nostrils for their restorative action. Blister
+over the nape of the neck is useful when cerebral symptoms are present.
+Ice caps over the head is very useful and should be applied
+continuously. The enlarged glands may be fomented with hot water or
+spongio-piline wrung out of hot antiseptic solution. When they are much
+painful, poppy or belladonna may be added to the water. Belladonna with
+glycerine should be applied in the beginning and iodine afterwards. Hot
+corrosive sublimate fomentations are also useful. If the glands
+suppurate, they should be opened aseptically and dressed with
+antiseptics. Proper drainage should be provided.
+
+IV. _Internal._—Knowing as we do that the plague is due to the toxic
+products metabolized by a pathogenic bacillus, the question comes—would
+an antiseptic treatment be of any use? Can we by any means induce an
+antiseptic action on the blood, or have we any drug which can act as
+antitoxin? It must be at once stated that no drug that has been tried
+yet fulfils the above conditions. The claims of quinine, however, should
+be taken into account. This drug in small repeated doses acts as a
+general antiseptic. I would, therefore, advocate its use especially in
+the early stages. Plague is a disease in which collapse sets in early
+and cardiac asthenia is a very early complication. There is, therefore,
+great urgency for early stimulation. Alcohol may be given freely, but at
+the same time it must be remembered that if the organs of elimination
+are not acting properly, alcohol may do harm. For their stimulant
+effects whiskey or iced champagne may be given. Carbonate of ammonia or
+spirit ammonia aromatic are held to be very useful stimulants in plague
+cases. They may be given in combination with cinchona, digitalis and
+ether. A prescription like the following may be useful:—
+
+  Ammonia Carb.              5 grains.
+  Chloric Ether              20 minims.
+  Sulphuric Ether            15 ”
+  Tint. Digitalis            5 ”
+  Tint. Cinchona             1 dram.
+  Aquæ Camphor               1 ounce.
+     Every three hours.
+
+For cardiac asthenia, the following may be tried:—(1) Caffeine,
+hypodermically, 5-grains dissolved by the aid of 5 grains of Sodium
+Benzoate in 20 minims of warm distilled water and injected three or four
+times a day if needful; (2) Ether or ethereal solution of camphor
+hypodermically; (3) Strychnine, hypodermically, beginning with gr. 1/60
+every four or six hours till gr. 1/16 is injected, or Liquor Strychnia
+in 5—10-minim doses every four hours; (3) Musk may be given in 5-grain
+doses, or as in the following mixture:—
+
+  Pulv. Moschi                    10 grains.
+  Mucilage Acacia                 2 drams.
+  Syr. Aurantii                   2 ”
+  Aquæ Camphor                    ½ ounce.
+     To be given every 6 hours.
+
+Digitalis does not always give good results, a fact which Lowson
+attributes to some inflammatory or fatty degenerative changes in the
+small vessels giving rise to a tendency to hæmorrhage. Stropanthus may
+be substituted. Transfusion of blood a hot saline solution and
+inhalation of oxygen have been recommended for collapse. Dr. Viegas of
+Bombay recommends Liquor Hydrasgyie Perchloride 10 to 15 minims every
+four hours if there is no albumen in the urine. Dr. Dimmock has advised
+subcutaneous injection of Guaicol 10 or 15 minims every two hours.
+Permanganate of Potash 5 to 12 grains in 24 hours has also been
+recommended. Dr. Blaney has recommended Medritina in two-dram doses
+every two hours when the kidneys are involved. Camphor has been
+recommended by some as a cardiac stimulant.
+
+
+
+
+                        _TREATMENT OF SYMPTOMS._
+
+
+(1). High temperature may be reduced by antipyretics, such as antipyrin,
+phenacetin, antifebrine, &c. These drugs produce profuse perspiration
+and a certain amount of depression; it is, therefore, advisable to
+restrict their use during the first few hours only, and if not found
+responding, they should be dropped altogether. Pyrexia is but a sign of
+the intensity of the activities of the infective agent, and by
+artificially reducing the body heat we really do not lessen the
+virulence of the poison, as shown by the rise of the temperature again
+as soon as the action of the antipyretic subsides. Hyperpyrexia itself
+is, however, an injurious symptom, and when there is long continued high
+temperature it is necessary to reduce it, either by an antipyretic,
+quinine or cold bath, or cold sponging. Cold bath is not suitable in
+plague patients on account of the movement of the body which it entails,
+and also on account of the serious cardiac depression which accompanies
+the disease. Two grains of phenacetin with 1 grain of hydrobromate of
+quinine is a safe antipyretic. Brandy and tepid sponging are also very
+useful.
+
+(2). _Brain symptoms._—For headache a mustard plaster behind the upper
+part of the neck and over the occiput. Ice cap or Lieter’s tube or plain
+water should be applied over the temples and scalp. Nervine sedatives,
+such as Potassium Bromide, may be given for insomnia when there is not
+much depression. Otherwise full doses of alcohol may be tried. Opium
+should not be used, but in mild cases, without great depression, 10 to
+20 minims of Liquor Opii sedativus with 30 minims of Sal Volatile in an
+ounce of camphor water may be given to soothe nervous unrest. For
+insomnia Lowson speaks highly of Morpinæ gr. 1/8 to gr. ½. Hyoscine gr.
+1/200 to gr. 1/75 may be tried. Meningites should be treated by cold to
+the scalp and counter-irritation to the nape of the neck and occiput.
+
+(3). _Hæmorrhages_ may be treated by Ergot or Ergotin internally or
+hypodermically. When there is much hæmorrhage, use of alcohol should be
+partly suspended.
+
+(4). If there is constipation, a dose of calomel may be given. In the
+beginning there is almost always constipation, which should be removed
+by a dose of calomel followed by a saline. Diarrhœa may be checked by an
+enema of opium. Two grains of Dover’s powder and 10 grains of tannin
+mixed with an ounce of gum mucilage and with two or three ounces of warm
+water, arrowroot or starch may be used for injection. Salol in 10-grain
+doses every 4 hours may be given for diarrhœa. For vomiting and hiccough
+sinapism over the epigastrium, sucking of ice, and for thirst acidulated
+water with syrup of lemon are recommended. Coma must be promptly met by
+cold effusion if there is pyrexia or by rectal injection of strong
+coffee. The bladder of the patient should be carefully watched.
+Pneumonia and other complications should be treated under general
+principles.
+
+When temperature falls and convalescence begins, the stimulants should
+be lessened, and afterwards a tonic with quinine, acid nitromuriatic
+dil., tincture calumba or quassia may be given with infusion aurantii.
+
+_Serum treatment._—The whole system of serum therapeutics is due to the
+genius of Pasteur. Diphtheria and tetanus are diseases that are caused
+by specific germs and are now successfully treated by immunised serum.
+Tetanus can be prevented and even cured by the injection of serum of
+other animals vaccinated against this disease: this process has been
+applied by Yersin for producing a plague serum, for which a prophylactic
+and curative power is claimed, and this serum may be called plague
+antitoxin. Yersin treated his first case in Canton. At Amoy, the people
+were less averse to treatment, and in 10 days he was able to treat 23
+with two deaths only. As yet Yersin’s serum has been tried in the
+declared diseases, but Yersin also proposes to use it as a preventive.
+Haffkine also proposes to make use of his serum for curative purpose.
+Yersin’s serum is older than Haffkine’s, otherwise bacteriologically
+they are identical. The subject is in far too unsettled a condition at
+present, but it has no doubt a hopeful future before it.
+
+
+
+
+                            _DISINFECTION._
+
+
+Substances which can prevent infectious diseases from spreading by
+destroying their specific germs are called disinfectants. These
+disinfectants can kill pathogenic germs. Heat is a most powerful agent
+in killing-germs, therefore anything which is subjected to prolonged
+boiling becomes sterile or germ-free. For purification of clothes and
+bedding, heat is the best agent, either by boiling them in water or by
+placing them in a hot-air chamber. The usual arrangement is a furnace
+with the smoke shaft passing under or on one side of a brick chamber and
+with a hot-air blast from a shaft running through or under the fire into
+the chamber itself, or into a passage below it, whence it passes into
+the chamber through a valve; an exit for the hot-air is provided at the
+top of the chamber, the clothes are suspended in the chamber, at a
+little distance from the walls. Various kinds of ingenious apparatus
+have been recently contrived and are used. Steam disinfecting chambers
+are necessary for the disinfection of clothes, &c., of a large
+population, and all large towns and railway stations should have them.
+High pressure steam in an apparatus contrived for the intermission of
+its pressure is found to give the best heat penetration to large
+non-conducting articles such as bedding. Fumigation by burning sulphur
+or chlorine is a very useful method for disinfection of rooms. Large
+bonfires of sulphur may also have a beneficial effect on the air.
+
+
+
+
+              _PURIFICATION OF A ROOM AFTER PLAGUE CASES_—
+
+
+All woodwork should be thoroughly cleansed with soft soap and water, to
+which a little carbolic acid has been added. The walls should be scraped
+and then washed with hot lime to which carbolic acid should be added in
+the proportion of one pint to four gallons of water. Then the room
+should be fumigated for 3 hours, with all doors and windows and the
+chimney being closed, sulphur about 1 seer for every 100 cubic feet of
+space should be put in a metallic dish, a little alcohol is poured on
+it, and it is lighted. After 3 hours the doors and windows should be
+opened and kept open for 24 or 36 hours. Rooms may be disinfected by
+chlorine. Carbolic acid in 5 per cent. solution is useful for all
+ordinary purposes, such as washing hands, utensils, &c.
+
+Quicklime is the cheapest and the most easily procurable disinfectant
+for drains and for disinfection of discharges. Carbolic powder made by
+adding carbolic acid to lime is very useful for the disinfection of
+public latrines, drains and sewers. Corrosive sublimate, in the
+proportion of 1 part in 4,000, is the most efficient germicide known and
+should be used diluted with water for sprinkling on public roads and for
+flushing drains and washing latrines, &c. It is, however, poisonous and
+corrodes metal drain pipes. In quarantine or isolation camp the latrines
+should be of the dry earth system. Carbolic acid powder should be
+largely used in them. The question of suitable disposal of sewage
+depends on the circumstances of each town or village, but incineration
+is the most sanitary method during an epidemic. Other disinfectants too,
+such as Jey’s Fluid, Creoline, Phenyle, Izal, Sanitas, may also be used.
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Silently corrected a few typos.
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Bubonic Plague, by A. Mitra
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE BUBONIC PLAGUE ***
+
+***** This file should be named 62931-0.txt or 62931-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/9/3/62931/
+
+Produced by deaurider, Stephen Hutcheson, and the Online
+Distributed Proofreading Team at https://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
